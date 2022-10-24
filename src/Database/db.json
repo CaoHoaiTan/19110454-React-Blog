@@ -17,6 +17,12 @@
       "body": "54",
       "author": "Tan",
       "id": 4
+    },
+    {
+      "title": "Blog 4",
+      "body": "Cao Hoài Tấn 19110454",
+      "author": "Tấn 567",
+      "id": 5
     }
   ],
   "comments": [
@@ -31,6 +37,12 @@
       "author": "Nam",
       "postId": "2",
       "id": 7
+    },
+    {
+      "content": "656",
+      "author": "5656",
+      "postId": "5",
+      "id": 8
     }
   ]
 }
